@@ -1,0 +1,26 @@
+{
+  "name": "stripecustompayement",
+  "version": "1.0.0",
+  "description": "custom payement flow",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nomentsafiidy/stripeCustomPayement.git"
+  },
+  "author": "maizina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nomentsafiidy/stripeCustomPayement/issues"
+  },
+  "homepage": "https://github.com/Nomentsafiidy/stripeCustomPayement#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "stripe": "^8.137.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
